@@ -19,7 +19,7 @@ package.json
 
 - **src/** : In diesem Ordner findest du die Funktionen, die getestet werden sollen.
 - **tests/** : In diesem Ordner sind die zugehörigen Tests abgelegt.
-- **package.json** : Ein normales [https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management](package.json) zur Verwaltung von Abhängikeiten.
+- **package.json** : Ein normales [package.json](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management) zur Verwaltung von Abhängikeiten.
 
 ## Verwendung
 
