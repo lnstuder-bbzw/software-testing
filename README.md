@@ -24,7 +24,7 @@ package.json
 
 Um die Test Suite auszuführen, führe folgende Befehle aus.
 
-```sh
+```
 npm install
 npm test
 ```
