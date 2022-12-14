@@ -3,6 +3,7 @@
 > Unterrichtsblock zu Software Testing im Modul 326
 > Gruppe Lian, Elias, Ghiath, Raksana
 
+[![Continuous Integration](https://github.com/lnstuder-bbzw/software-testing/actions/workflows/ci.yml/badge.svg)](https://github.com/lnstuder-bbzw/software-testing/actions/workflows/ci.yml)
 
 ## Projektstruktur
 
