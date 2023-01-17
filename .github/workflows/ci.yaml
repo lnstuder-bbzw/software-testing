@@ -29,4 +29,9 @@ jobs:
         
     - run: npm install
         
-    - run: npm test
+    - run: npm test:unit
+    
+    - name: cypress e2e test
+      uses: cypress-io/github-action@v5.x.x
+      with:
+        browser: firefox
