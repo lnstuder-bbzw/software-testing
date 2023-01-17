@@ -32,6 +32,6 @@ jobs:
     - run: npm test:unit
     
     - name: cypress e2e test
-      uses: cypress-io/github-action@v5.x.x
+      uses: cypress-io/github-action@v5
       with:
         browser: firefox
