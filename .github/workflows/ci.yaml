@@ -29,7 +29,7 @@ jobs:
         
     - run: npm install
         
-    - run: npm test:unit
+    - run: npm run test:unit
     
     - name: cypress e2e test
       uses: cypress-io/github-action@v5
